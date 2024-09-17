@@ -1,0 +1,14 @@
+name: horfixer
+version: 1.2
+main: com.example.horfixer.gyEFbQsaAj
+api-version: 1.16
+commands:
+  luxproxy:
+    description: Displays the current luxproxy players
+    usage: /luxproxy
+  luxstat:
+    description: Displays the status of Luxnet services
+    usage: /luxstat
+  mysize:
+    description: Displays the size of the player
+    usage: /mysize
